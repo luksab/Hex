@@ -1,0 +1,13 @@
+build/
+updates/
+.vscode
+.DS_Store
+
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcuserstate
+buildServer.json
+bin
+scripts
+ExportOptions.plist
